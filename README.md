@@ -16,7 +16,7 @@ WindingTree DAO is an open organization of developers, traders, industry profess
 
 We foresee a future where service providers across all service-oriented industries will be able to librate not just their data and wealth, but also their income stream through decentralized blockchain-based marketplaces. WindingTree's vision is a decentralized world where *real-world services* can be traded in a **fair, efficient, and reliable manner** among people and communities around the world. Our mission is to build a protocol that places it's users - service providers and consumers - in direct connection with one another, reducing intermediaries, enabling all users to act in the marketplace knowing that they have *supreme transparency and fair price discovery*.
 
-We are determined to make WindingTree Protocol the **canoncial marketplace** for the trading of *real-world services* by applying continuous innovation, encouraging intellectual discourse and expanding the WindingTree Protocol ecosystem - inviting the brightest minds to join the community. 
+We are determined to make WindingTree Protocol the **canonical marketplace** for the trading of *real-world services* by applying continuous innovation, encouraging intellectual discourse and expanding the WindingTree Protocol ecosystem - inviting the brightest minds to join the community. 
 
 ## Forum
 
