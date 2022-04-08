@@ -1,0 +1,17 @@
+# misc
+.DS_Store
+*.swp
+*.db
+*.log
+
+# python for tools
+__pycache__
+.pytest_cache
+.venv/
+
+# node
+node_modules/
+
+# dotenv
+.env*
+!.env.template
