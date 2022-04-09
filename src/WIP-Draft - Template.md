@@ -1,8 +1,10 @@
 # WIP-Draft: Template
 
+  ```
   WIP: <to be assigned when moved to phase 2>
   title: <WIP title>
   author: <a list of the author's or author's name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@Github Username), FirstName LastName <foo@bar.com>, FirstName (@GithbUsername) and GitHubUsername (@GithubUsername)>
+  ```
 
   This is the suggested template for new WIPs.
 
