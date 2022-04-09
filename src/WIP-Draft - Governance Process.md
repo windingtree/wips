@@ -1,7 +1,7 @@
-# WIP-0: Governance Process
+# WIP-Draft: Governance Process
 
   ```
-  WIP: 0
+  WIP: Draft
   title: Governance Process
   author: mfw78 <mfw78@protonmail.com>
   ```
