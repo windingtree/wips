@@ -41,6 +41,8 @@ expanding the WindingTree Protocol ecosystem - inviting the brightest minds to j
 WindingTree DAO's `wips` Github repository discussion page is the main venue for governance-related
 discussion. Anyone with a Github account can post and participate in discussions.
 
+Ad-hoc discussion may take place on [Discord](https://discord.gg/fGqeXzqKVU).
+
 ## Snapshot
 
 [WindingTree DAO's snapshot space](https://snapshot.org/#/windingtree.eth) is a simple voting
@@ -88,4 +90,5 @@ phase 2 (merge into `main` branch).
   limit of `999057.5780542548` `LIF1` and `LIF2` (4%) tokens required to vote **YES**.
 * Additionally, in order for a proposal to be approved, **YES** votes should account for **>50%**
   of total participating votes. (simple majority)
-* Once a proposal is approved, if this proposal includes executable transactions, Winding Tree's multisig signers will meet and execute the proposal.
+* Once a proposal is approved, if this proposal includes executable transactions, WindingTree's 
+  multisig signers will meet and execute the proposal.
