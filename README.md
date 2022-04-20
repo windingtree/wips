@@ -45,7 +45,7 @@ discussion. Anyone with a Github account can post and participate in discussions
 
 [WindingTree DAO's snapshot space](https://snapshot.org/#/windingtree.eth) is a simple voting
 interface that allows users to vote on proposals. Votes on WindingTree are weighted by the number
-of LIF1 and LIF2 held or delegated to the address used to vote.
+of LIF1 and LIF2 held by the address used to vote.
 
 ## Governance Process
 
@@ -88,3 +88,4 @@ phase 2 (merge into `main` branch).
   limit of `999057.5780542548` `LIF1` and `LIF2` (4%) tokens required to vote **YES**.
 * Additionally, in order for a proposal to be approved, **YES** votes should account for **>50%**
   of total participating votes. (simple majority)
+* Once a proposal is approved, if this proposal includes executable transactions, Winding Tree's multisig signers will meet and execute the proposal.
