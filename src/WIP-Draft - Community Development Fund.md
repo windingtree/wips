@@ -6,17 +6,17 @@
 
 ## Summary
 
-Funding of a *Community Development Fund* to be used for active development of the WindingTree Ecosystem, controlled by the community. 
+Funding of a *Community Development Fund* to be used for active development of the Winding Tree Ecosystem, controlled by the community. 
 
 ## Motivation
 
-Currently all WindingTree development is steered by the WindingTree Foundation. As WindingTree seeks to empower it's community and migrate towards a DAO, it's critical that that community gains an increased ability to steer protocol development. Resources are required to fund community and protocol development, and by passing ownership of resources to the fund, this capital can be steered by the collective intelligence of the community's *hive mind*. 
+Currently all Winding Tree development is steered by the Winding Tree Foundation. As Winding Tree seeks to empower it's community and migrate towards a DAO, it's critical that that community gains an increased ability to steer protocol development. Resources are required to fund community and protocol development, and by passing ownership of resources to the fund, this capital can be steered by the collective intelligence of the community's *hive mind*. 
 
-This will ensure that resources are placed at the disposal of the community to the direction, and benefit of, service providers and consumers.
+This will ensure that resources are placed at the disposal of the community, to the direction and benefit of, service providers and consumers.
 
 ## Specification
 
-Initially fund the *Community Development Fund* with *50%* of the WindingTree Foundation's ICO allocation.
+Initially fund the *Community Development Fund* with *50%* of the Winding Tree Foundation's ICO allocation.
 
   > * ICO Participants: 19,981,233.161085093075135945 LIF
   > * Foundation:        4,995,308.290271273268783985 LIF
@@ -37,8 +37,8 @@ The current balances of the Foundation and Vesting contracts from the above are:
   > * Total: 3,339,320.540173146567374197 LIF
 
 In line with the Founder's belief in WindingTree, the Founders will allocate funds required to ensure that
-50% of the WindingTree Foundation's ICO allocations are committed to the *Community Development Fund*.
-Contributions will be as follows:
+50% of the Winding Tree Foundation's ICO allocations are committed to the *Community Development Fund*.
+Contributions are proposed as follows:
 
   > * Founder Vesting:        1,076,532.449581381980635196 LIF
   > * Team Pool:                422,060.0375 LIF
@@ -54,11 +54,11 @@ This proposal aims to meet two key points in the DAO transition:
 1. Funding of a community treasury to be used to further protocol development.
 2. Increase decentralisation of token holdings to ensure fair governance.
 
-The point for (1) is obvious in that any community needs resources in order to develop. The most important point for this proposal is (2) as it in effect reduces the tokens held by the team, reducing their voting power and in doing so, decentralizes the voting power for the DAO.
+The point for (1) is obvious in that any community needs resources in order to develop. The most important point for this proposal is (2) as it in effect reduces the tokens held by the team, reducing their voting power and in doing so, reduces the voting power centralisation as Winding Tree is migrated towards a DAO.
 
 ### Voting Power Distribution
 
-As WindingTree progresses through it's DAO transition, the distribution of holdings is key to ensuring robust governance. Currently there are 7.1M tokens claimed for LIF2, with those tokens held by Foundation vesting contracts still not claimed on LIF2. Of these 7.1M tokens, approximately 6.5M belong to active investors monitoring their portfolio, with the other 0.6M belonging to the team and deployed in various liquidity programs and/or bounties/raffles.
+As Winding Tree progresses through it's DAO transition, the distribution of holdings is key to ensuring robust governance. Currently there are 7.1M tokens claimed for LIF2, with tokens held by Foundation vesting contracts still not claimed on LIF2. Of these 7.1M tokens, approximately 6.5M belong to active investors monitoring their portfolio, with the other 0.6M belonging to the team and deployed in various liquidity programs and/or bounties/raffles.
 
 If there were to be no distribution to the *Community Development Fund*, the team would wield a voting power of approximately 3.3M, or nearly 33% of all active voting power. In a "simple majority" vote-counting case, this would require at least half of active investors to mobilise against the team. In keeping with the vision of being an inclusive protocol, favouring service providers and consumers, more voting power needs to be given to precisely that community.
 
@@ -66,22 +66,24 @@ By foregoing 2.497M LIF, the team would command approximately 1.4M LIF voting po
 
 ## Execution
 
-### Safe Transaction Hash
+In executing this proposal, the community development's funds would be bridged to Gnosis Chain and sent to the community multi-sig located at [0x07AED86bda7B36079296C1D94C12d6F48Beeb86C](https://gnosis-safe.io/app/gno:0x07AED86bda7B36079296C1D94C12d6F48Beeb86C/home).
+
+### Safe Transaction Hash (TBD)
 
   <tx hash> (*optional)
 
 ### Safe Transaction Data
 
-Mandatory for every proposal that requires transaction from WindingTree DAO.
+Mandatory for every proposal that requires transaction from Winding Tree DAO.
 
   <payload>
 
 ### Tenderly Simulation
 
-Mandatory for every proposal that requires transaction from WindingTree DAO.
+Mandatory for every proposal that requires transaction from Winding Tree DAO.
 
 Link to Tenderly simulation
 
 ## Snapshot
 
-*Phase 2 Proposal: Add a link to the corresponding WindingTree Snapshot poll you’ve created.*
+*Phase 2 Proposal: Add a link to the corresponding Winding Tree Snapshot poll you’ve created.*
