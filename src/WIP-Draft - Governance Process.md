@@ -24,7 +24,7 @@ more community members aligned with its vision. WindingTree is focused on fair a
 *real-world service* trading systems - in particular building, maintaining and advancing the 
 WindingTree protocol. WindingTree protocol powers a network of service providers, consumers, and
 solvers, enabling trustless and efficient real-world service trading, reducing reliance on
-centralised siloed market aggregators.  Providing uniform *open* access to service provider
+centralised siloed market aggregators. Providing uniform *open* access to service provider
 inventory, reducing market information assymetry, are core to WindingTree's practices.
 
 ## Vision
@@ -38,9 +38,13 @@ providers and consumers - in direct connection with one another, reducing interm
 all users to act in the marketplace knowing that they have *supreme transparency and fair price
 discovery*.
 
-We are determined to make WindingTree Protocol the **canonical marketplace** for the trading of 
+We are determined to make WindingTree Protocol the **recognized marketplace** for the trading of 
 *real-world services* by applying continuous innovation, encouraging intellectual discourse and
-expanding the WindingTree Protocol ecosystem - inviting the brightest minds to join the community. 
+expanding the WindingTree Protocol ecosystem - inviting the brightest minds to join the community.
+
+Some examples of marketplaces that can be transformed with the WindingTree protocol are Online Travel Agencies
+(e.g. Booking.com), Global Distribution Systems (e.g. Amadeus) or even e-commerce platforms (e.g. Amazon).
+
 
 ## Forum
 
